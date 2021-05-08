@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: dynoxhost
+Version: 0.0.1
+Summary: The offcial python package for dynoxhost
+Home-page: https://github.com/tovade/dynoxhost.py
+Author: tovade
+Author-email: support@tovade.ml
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/tovade/dynoxhost.py/issues
+Description: # Dynoxhost python
+        
+        This is a package made with ❤ and python
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
